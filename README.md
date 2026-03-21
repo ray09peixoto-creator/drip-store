@@ -39,11 +39,6 @@ A **DRIP STORE** é uma aplicação web de e-commerce desenvolvida com React, co
 * 🧺 Carrinho de compras
 * 📱 Layout responsivo
 
----
-
-## 📸 Preview
-
-(Adicione aqui prints do seu projeto — isso valoriza MUITO seu README!)
 
 ---
 
